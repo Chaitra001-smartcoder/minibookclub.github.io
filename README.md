@@ -4,7 +4,7 @@
 
 🌜pages of the minibook website🌛 Home,Genre,purchase,About,contactus.
 
-🌜technologies used🌛 Bootstrap 5️⃣, html5,css3, javascript ,bootstrap4. 
+🌜technologies used🌛 Bootstrap 5️⃣, html5,css3, javascript. 
 
 💥  Effects used💥
 semi-transparent background,transitions,carousel and many more🧡
